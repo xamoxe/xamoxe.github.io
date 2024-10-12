@@ -1,0 +1,50 @@
+/* Estilos generales */
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    background-image: url('https://www.transparenttextures.com/patterns/hearts.png'); /* Fondo de corazones */
+    background-size: cover;
+}
+
+/* Encabezado */
+header {
+    background-color: #ff7675;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3em;
+    letter-spacing: 2px;
+}
+
+/* Mensaje */
+.message {
+    background-color: white;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #d63031;
+    font-size: 2em;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+strong {
+    font-size: 1.6em;
+    color: #2d3436;
+}
